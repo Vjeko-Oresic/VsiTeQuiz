@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/list_selected"
+    android:orientation="vertical" >
+    
+    <TextView
+        android:id="@+id/Question"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:paddingBottom="3dip"
+        android:paddingLeft="3dip"
+        android:paddingRight="3dip"
+        android:text="@+id/editQuestion"
+        android:textSize="25sp" />
+    
+    <TextView
+        android:id="@+id/Answer1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="3dip"
+        android:paddingLeft="3dip"
+        android:paddingRight="3dip"
+        android:text="@+id/editAnswer1"
+        android:textSize="25sp" />
+    
+    <TextView
+        android:id="@+id/Answer2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="3dip"
+        android:paddingLeft="3dip"
+        android:paddingRight="3dip"
+        android:text="@+id/editAnswer2"
+        android:textSize="25sp" />
+    
+     <TextView
+        android:id="@+id/Answer3"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="3dip"
+        android:paddingLeft="3dip"
+        android:paddingRight="3dip"
+        android:text="@+id/editAnswer3"
+        android:textSize="25sp" />
+     
+     <TextView
+        android:id="@+id/Answer4"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="3dip"
+        android:paddingLeft="3dip"
+        android:paddingRight="3dip"
+        android:text="@+id/editAnswer4"
+        android:textSize="25sp" />
+     
+     <TextView
+        android:id="@+id/CorrectAnswer"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:paddingBottom="3dip"
+        android:paddingLeft="3dip"
+        android:paddingRight="3dip"
+        android:text="@+id/editCorrectAnswer"
+        android:textSize="25sp" />
+        
+</LinearLayout>

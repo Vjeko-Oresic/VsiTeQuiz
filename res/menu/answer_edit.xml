@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.vsitekviz.EditActivity" >
+
+    <item 
+        android:id="@+id/action_accept"
+        android:icon="@drawable/ic_action_accept"
+        android:showAsAction="always"
+        android:title="@string/action_accept"/>
+    
+     <item 
+        android:id="@+id/action_cancel"
+        android:icon="@drawable/ic_action_cancel"
+        android:showAsAction="always"
+        android:title="@string/action_cancel"/>
+     
+     <item 
+        android:id="@+id/action_remove"
+        android:icon="@drawable/ic_action_discard"
+        android:showAsAction="always"
+        android:title="@string/action_remove"/>
+
+</menu>

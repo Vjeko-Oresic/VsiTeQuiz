@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">VsiTe quiz</string>
+    <string name="title_activity_new">VsiTe quiz</string>
+    <string name="title_activity_edit">VsiTe quiz</string>
+    <string name="title_activity_quiz">VsiTe quiz</string>
+    <string name="title_activity_wrong">VsiTe quiz</string>
+    <string name="title_activity_correct">VsiTe quiz</string>
+    <string name="action_quiz">Quiz</string>
+    <string name="action_new">New</string>
+    <string name="action_accept">Accept</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_remove">Remove</string>
+    <string name="editQuestion">Question</string>
+    <string name="editAnswer1">Answer A</string>
+    <string name="editAnswer2">Answer B</string>
+    <string name="editAnswer3">Answer C</string>
+    <string name="editAnswer4">Answer D</string>
+    <string name="editCorrectAnswer">Correct answer</string>
+    <string name="wrong">Netočan odgovor</string>
+    <string name="correct">Točan odgovor</string>
+    <string name="button">Sljedeće pitanje</string>
+    
+</resources>
